@@ -1,0 +1,1 @@
+export const validatePasswordMessage = 'La contraseña debe contener entre 6 y 12 caracteres sin espacios';
