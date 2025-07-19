@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const apiClient = axios.create({
-    baseURL: 'http://localhost:3001/cci/v1/',
+    baseURL: 'https://prueba-vercel-tan-two.vercel.app/',
     timeout: 10000,
     httpsAgent: false
 });
